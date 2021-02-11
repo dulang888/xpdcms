@@ -181,6 +181,7 @@ ul.bar a {
 }
 #content .bd ul#list li img {
     position: relative;
+    width: 100%;
 }
 #content .bd ul#list li span {
     display: block;
@@ -294,7 +295,6 @@ ul.bar a {
 
 img{
     border-radius: 8px;
-    width: 100%;
 }
 .pace {
   -webkit-pointer-events: none;
@@ -315,9 +315,6 @@ img{
   width: 100%;
   height: 2px;
 }
- img{
- width:100%;
- }
  .button {
     background-color: #2399fd; 
     border: none;
